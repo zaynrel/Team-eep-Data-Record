@@ -114,7 +114,7 @@ export default function Home() {
           <div>
             <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 3 }}>
               <div style={{ width: 7, height: 7, borderRadius: '50%', background: '#dc2626' }} />
-              <span style={{ fontSize: 11, color: '#dc2626', fontWeight: 600, letterSpacing: '0.1em', textTransform: 'uppercase' }}>Honda Motordata</span>
+              <span style={{ fontSize: 11, color: '#dc2626', fontWeight: 600, letterSpacing: '0.1em', textTransform: 'uppercase' }}>Team Eep</span>
             </div>
             <h1 style={{ fontSize: 22, fontWeight: 700, color: '#111', letterSpacing: '-0.02em' }}>Customer Records</h1>
           </div>
